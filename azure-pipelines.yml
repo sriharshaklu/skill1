@@ -56,7 +56,6 @@ steps:
 
 
     script: |
-      print('Hello world 1')
-      print('Continuous Integration and Deployment')
-      print('Build Phython Appliations from Azure Platform') 	
-
+      print('AZURE PIPELINES FOR PHYTHON')
+      print('Development and Deployment Operations in Azure')
+      print('Continuous Integration and Deployment in Azure Pipeline')
